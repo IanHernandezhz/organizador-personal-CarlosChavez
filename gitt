@@ -1,0 +1,29 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex cf1cfa4..217ed07 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,6 +1,22 @@[m
+ • Nombre del proyecto[m
+[32m+[m[32mPráctica integradora: Git, GitHub y entorno de trabajo[m
+ • Objetivo[m
+[32m+[m[32mAplicar de forma integrada el flujo de preparación,[m
+[32m+[m[32mversionamiento y colaboración de un proyecto.[m
+ • Tecnologías utilizadas[m
+[32m+[m[32mVisual Studio Code, entorno virtual, dependencias, Git y GitHub.[m
+ • Pasos de instalación[m
+[32m+[m[32mpip install requests[m
+[32m+[m[32mpip install python-dotenv[m
+[32m+[m[32mpip list[m
+[32m+[m[32mpip freeze > requirements.txt[m
+ • Dependencias[m
+[31m-• Autor[m
+\ No newline at end of file[m
+[32m+[m[32mpip install requests[m
+[32m+[m[32mpip install python-dotenv[m
+[32m+[m[32mpip list[m
+[32m+[m[32mpip freeze > requirements.txt[m
+[32m+[m[32m• Autor[m
+[32m+[m[32mCarlos Chavez[m
+[32m+[m[32mColaboracion:[m
+[32m+[m[32mIan Hernandez[m
+[41m+[m
